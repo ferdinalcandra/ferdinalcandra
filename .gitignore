@@ -1,1 +1,4 @@
-/conf
+/conf/dctm-rest.yml
+/conf/dms.yml
+/conf/jasypt.yml
+/conf/share-folder.yml
